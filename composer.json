@@ -1,0 +1,19 @@
+{
+    "name": "dell/jornada-almuerzo_mvc_php_mysql",
+    "description": "Proyecto API CRUD",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "./models",
+            "Classes\\" : "./classes"
+
+        }
+    },
+    "authors": [{
+        "name": "Radhamesenc",
+        "email": "66645183+Radhamesenc@users.noreply.github.com"
+    }],
+    "require": {}
+}
